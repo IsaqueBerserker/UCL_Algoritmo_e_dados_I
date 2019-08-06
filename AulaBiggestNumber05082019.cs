@@ -1,5 +1,4 @@
 using System;
-using Math.Max;
 using System.Linq;
 
 class MainClass {
@@ -31,7 +30,7 @@ class MainClass {
     b=Convert.ToInt32(Console.ReadLine());
     c=Convert.ToInt32(Console.ReadLine());
 
-    Console.WriteLine(MetodoDoProf(a,b,c));
+    MetodoDoProf(a,b,c);
 
   }
 }
