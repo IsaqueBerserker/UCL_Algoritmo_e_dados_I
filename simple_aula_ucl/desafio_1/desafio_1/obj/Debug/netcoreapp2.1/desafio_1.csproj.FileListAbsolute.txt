@@ -1,0 +1,11 @@
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\obj\Debug\netcoreapp2.1\desafio_1.csprojAssemblyReference.cache
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\obj\Debug\netcoreapp2.1\desafio_1.csproj.CoreCompileInputs.cache
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\obj\Debug\netcoreapp2.1\desafio_1.AssemblyInfoInputs.cache
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\obj\Debug\netcoreapp2.1\desafio_1.AssemblyInfo.cs
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\bin\Debug\netcoreapp2.1\desafio_1.deps.json
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\bin\Debug\netcoreapp2.1\desafio_1.runtimeconfig.json
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\bin\Debug\netcoreapp2.1\desafio_1.runtimeconfig.dev.json
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\bin\Debug\netcoreapp2.1\desafio_1.dll
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\bin\Debug\netcoreapp2.1\desafio_1.pdb
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\obj\Debug\netcoreapp2.1\desafio_1.dll
+C:\Users\Isaque\source\repos\desafio_1\desafio_1\obj\Debug\netcoreapp2.1\desafio_1.pdb
